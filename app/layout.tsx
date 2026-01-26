@@ -19,7 +19,7 @@ const imbPlexSerif = IBM_Plex_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "WeBAnk",
+  title: "WeBank",
   description: "WeBank is a modern Online bankingplatform for everyone.",
   icons: {
     icon: "/icons/logo.svg",
